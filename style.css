@@ -1,0 +1,58 @@
+html {
+  background: url(img/tech-background.webp) no-repeat center fixed;
+  background-size: cover;
+  background-color: black;
+}
+body {
+  background-color: white;
+  border: solid;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 30px;
+}
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h1:hover {
+  font-weight: bolder;
+  color: red;
+}
+h2 {
+  margin-top: 50px;
+}
+a {
+  color: red + 6;
+}
+a:hover {
+  font-weight: bolder;
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+h1 {
+  text-align: center;
+}
+
+.grey {
+  color: grey;
+}
+.center {
+  text-align: center;
+}
+
+.orange {
+  color: orange;
+}
+
+.blue {
+  color: blue;
+}
+hr {
+  margin: 30px;
+}
